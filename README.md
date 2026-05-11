@@ -1,5 +1,5 @@
 # Temporal Acoustic Emission (AE) _b_-Value Analyses for Spalling Observation in Rock Tunnels using a Scale-Model Test
-This repository provides Python codes for performing temporal acoustic emission analyses relevant to the studies by Wibisono and Gutierrez (2026)
+This repository provides Python codes for performing temporal acoustic emission analyses relevant to the studies by Wibisono and Gutierrez (2026), published in Rock Mechanics Bulletin.
 
 This repository contains several Python Jupyter Notebook files designed as a short (and hopefully helpful) guide for performing temporal _b_-Value analyses for AE monitoring in laboratory testing. The code assess temporal deconstruction in AE monitoring for _b_-values, average frequency / peak amplitude (AF - AMP), and average frequency / rise time amplitude (AF/RA). This work supports studies by Wibisono (2024) and articles by Wibisono and Gutierrez.
 
