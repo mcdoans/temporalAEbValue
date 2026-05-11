@@ -10,7 +10,7 @@ Please cite this dissertation and/or forthcoming papers if using this work for a
 
 ## Notebooks
 1. **Temporal _b_-values (`bval_GFT-ch3.ipynb`) and (`bval_MAXC-ch3.ipynb`)**
-   - These notebook provides an introductory example in performing temporal deconstruction in AE monitoring from base _b_-values calculation code provided by *[Lapin (2021)](https://doi.org/10.1029/2021JB021910)*. Two methods for estimating the magnitude of the completeness _M<sub>c</sub>_, such as GFT (goodness-of-fit tests) and MAXC (maximum curvature) are provided for comparison, as detailed in the paper. 
+   - These notebooks provides an introductory example in performing temporal deconstruction in AE monitoring from base _b_-values calculation code provided by *[Lapin (2021)](https://doi.org/10.1029/2021JB021910)*. Two methods for estimating the magnitude of the completeness _M<sub>c</sub>_ are provided for comparison, as detailed in the paper:  GFT (goodness-of-fit tests) and MAXC (maximum curvature)
 
 2. **Average Frequency and Peak Amplitude (AF-AMP) 3D Clustering Plot  (`forthcoming`)**
 
